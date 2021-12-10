@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
     int left=-4;
     int right=-1;
